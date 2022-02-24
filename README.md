@@ -1,5 +1,3 @@
-# pinakinternship
-I am currently an intern in Pinak Idea Lab
 <!DOCTYPE html>
 <html lang="en">
 <head>
